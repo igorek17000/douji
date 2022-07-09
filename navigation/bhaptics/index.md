@@ -1,0 +1,3 @@
+# bHaptics
+
+bHaptics触觉背心具有40个振动触觉马达，无延迟无线连接，带来最佳的触觉体验。到目前为止，超过50款SteamVR和Oculus Quest游戏，包括Phasmophobia、Onward和Pavlov，都提供了原生支持。我们计划继续与其他游戏合作，以便为用户提供每款游戏的最佳触觉反馈

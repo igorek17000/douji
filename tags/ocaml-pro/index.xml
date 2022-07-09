@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>OCaml Pro - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/ocaml-pro/</link>
+        <description>OCaml Pro - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 07 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/ocaml-pro/" rel="self" type="application/rss+xml" /><item>
+    <title>OCaml Pro</title>
+    <link>https://www.metabd.cc/navigation/ocaml-pro/</link>
+    <pubDate>Thu, 07 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>qianxun</name><uri>https://www.metabd.cc/authors/qianxun</uri></author><guid>https://www.metabd.cc/navigation/ocaml-pro/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/ocaml-pro.jpg" referrerpolicy="no-referrer">
+            </div>法国软件公司 OCaml Pro，创立于 2011 年，通过使用较为正规的方法提升软件质量。他们推广使用快速、富有表现力、静态类型的先进编程语言 OCaml，同时，]]></description>
+</item></channel>
+</rss>

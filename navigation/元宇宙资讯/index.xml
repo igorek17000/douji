@@ -1,0 +1,31 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>元宇宙资讯 - 元宇宙项目 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/navigation/%E5%85%83%E5%AE%87%E5%AE%99%E8%B5%84%E8%AE%AF/</link>
+        <description>元宇宙资讯 - 元宇宙项目 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 06 Jul 2022 08:47:36 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/navigation/%E5%85%83%E5%AE%87%E5%AE%99%E8%B5%84%E8%AE%AF/" rel="self" type="application/rss+xml" /><item>
+    <title>元宇宙媒体</title>
+    <link>https://www.metabd.cc/pnavigation/metaverse-media/</link>
+    <pubDate>Wed, 06 Jul 2022 08:47:36 &#43;0800</pubDate><author>
+        <name>斗极元宇宙</name>
+    </author><guid>https://www.metabd.cc/pnavigation/metaverse-media/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>8BTC 国际站</title>
+    <link>https://www.metabd.cc/navigation/8btc-guojizhan/</link>
+    <pubDate>Wed, 06 Jul 2022 08:47:36 &#43;0800</pubDate><author>
+                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/navigation/8btc-guojizhan/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/8btc-guojizhan.jpg" referrerpolicy="no-referrer">
+            </div>巴比特资讯创建于2011年，是区块链领域资深的内容平台。以专业为报道标准，为用户提供有价值的信息服务。 巴比特资讯现已形成集文字、音视频于一体]]></description>
+</item><item>
+    <title>金色财经</title>
+    <link>https://www.metabd.cc/navigation/2/</link>
+    <pubDate>Wed, 06 Jul 2022 08:47:36 &#43;0800</pubDate><author>
+                    <name>Metabd</name><uri>https://www.metabd.cc/authors/metabd</uri></author><guid>https://www.metabd.cc/navigation/2/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/2.jpg" referrerpolicy="no-referrer">
+            </div>金色财经是集行业新闻、资讯、行情、数据等一站式区块链产业服务平台，我们追求及时、全面、专业、准确的资讯与数据，致力于为区块链创业者以及数字货]]></description>
+</item></channel>
+</rss>

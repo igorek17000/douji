@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Lingo3D - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/lingo3d/</link>
+        <description>Lingo3D - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 06 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/lingo3d/" rel="self" type="application/rss+xml" /><item>
+    <title>LINGO3D 是一个WEB原生的3D创建工具和开源 React</title>
+    <link>https://www.metabd.cc/navigation/lingo3d/</link>
+    <pubDate>Wed, 06 Jul 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>yangsi</name><uri>https://www.metabd.cc/authors/yangsi</uri></author><guid>https://www.metabd.cc/navigation/lingo3d/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/286.jpg" referrerpolicy="no-referrer">
+            </div>LINGO3D是一个WEB原生的3D创建工具和开源 React Lingo3D 是一个 Web 端 3D 游戏开发工具链，能让开发者通过 React 和 JavaScript 开发出炫目的3D沉浸式体验。 自动地图碰]]></description>
+</item></channel>
+</rss>
