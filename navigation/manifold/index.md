@@ -1,7 +1,7 @@
 # Manifold
 
-Manifold 使 web3 创作者能够拥有真正的创意所有权，保留链上出处，并与所有主要的 NFT 市场相互操作。
+Manifold使web3创建者能够拥有真正的创意所有权，保留链上的来源，并与所有主要的NFT市场进行互操作。
 
-Manifold Creator 包括一个强大的扩展框架，允许创建者将区块链“应用程序”安装到他们的创建者合约中。这使创作者可以创建超越视觉和音频 NFT 的产品，并支持超越铸币的功能。
+Manifold Creator包括一个强大的扩展框架，允许创建者将区块链“应用程序”安装到他们的创建者合同中。这使得创作者能够创建超越视觉和音频NFT的产品，并支持超越铸造的功能。
 
-Manifold Studio 将 Manifold Creator 合约的强大功能与无缝用户界面相结合，以零编码创建您自己的 NFT。作为我们为顶级创作者打造的下一步，Manifold Studio 允许您铸造原始的高质量 NFT，同时保留您作品的真正所有权和出处。
+Manifold Studio将Manifold Creator Contract的强大功能与无缝的用户界面相结合，无需编码即可铸造自己的NFT。作为我们为顶级创作者构建的下一步，Manifold Studio允许您铸造原始的高质量NFT，同时保留您作品的真正所有权和出处。

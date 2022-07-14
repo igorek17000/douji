@@ -1,113 +1,11 @@
 # Cesium
 
+Cesium平台为任何软件应用程序利用3D地理空间数据提供了基础:可视化、数据管道、策划数据和分析。 基于开放的数据格式标准、用于定制和集成的开放api，并以开源核心构建，Cesium是开放的、可互操作的，而且非常精确。
 
-The Cesium platform provides the foundations any software application needs to utilize 3D geospatial data: visualization, data pipelines, curated data, and analytics. Based on open standards for data formats, open APIs for customization and integration, and built with an open source core, Cesium is open, interoperable, and incredibly precise.
+Cesium始于2011年，当时航空航天软件公司Analytical Graphics，Inc.的一个开发团队着手创建一个可视化太空物体的应用程序。在计算机图形专家Patrick Cozzi的带领下，该项目产生了世界上最精确，性能最强，时间动态的虚拟地球仪。在使原子钟具有显着准确性的元素之后被称为“铯”，它于2012年作为开源发布。
 
-Cesium实验室简介：
+与此同时，3D数据收集正在世界各地激增，推动了对可以释放其潜力的软件的需求。随着各行各业开始为大量用例收集3D位置数据，Cozzi和团队看到了将铯扩展到航空航天领域之外的机会。
 
-**公司历史**
+Cesium于2019年作为一家独立公司分拆出来，今天为可互操作的地理空间生态系统提供了基础开放平台。
 
-- 2017年3月成立
-- 2018年3月发布Cesiumlab 1.0
-- 2019年8月发布Cesiumlab 2.0 & EarthSDK
-
-**企业定位**
-
-- 提供面向政府，科研单位，业务单位，其他二次开发商的时空大数据三维可视化的集成平台。
-
-**企业使命**
-
-- 不断研究各种先进技术，重构和展示我们世界运行的表象及它内在的科学原理。
-
-**企业愿景**
-
-- 使人们更容易认识我们的家园和地球。
-
-**Terrain Tiler**
-
-地形切片
-
-- 无数据量限制，直至全球范围
-- 不同精度数据自动融合
-- 不同区域数据无缝拼接
-- 支持增量处理
-- 多种数据存储方式
-
-**Imagery  Tiler**
-
-影像切片
-
-- 无数据量限制，直至全球范围 
-- 不同精度数据自动融合 
-- 不同区域数据无缝拼接 
-- 支持增量处理 
-- 多种数据存储方式 
-- 多种图片输入格式，支持索引色 
-
-**Pointcloud To 3dtiles**
-
-点云切片
-
-- 支持数以亿计的点云数据
-- 支持点云属性存储
-- 支持空间投影变换
-
-**BIM  Data  To  3dtiles**
-
-BIM数据处理
-
-- 支持Rvt,Dgn,Catia导出插件 
-- ifc格式3种引擎直接处理 
-- 生成完整构件结构树 
-- 保留完整构件属性 
-
-**Osgb To 3dtiles**
-
-倾斜模型转换
-
-- 城市级倾斜模型转换
-- 支持金字塔重建
-- 支持多种纹理优化
-
-**Shp  To  3dtiles**
-
-矢量楼块切片
-
-- 城市级白模自动生成 
-- 按条件纹理贴图 
-- 保留数据属性 
-- 支持单体化数据生成 
-
-**Max Model To 3dtiles**
-
-人工模型切片
-
-- 支持大量模型处理
-- 支持无光照烘焙模式
-- 精确的空间地理变换
-- 支持属性外挂
-
-**Http  Services**
-
-分发服务
-
-- 离线启动，后台运行 
-- 图层化数据管理 
-- REST服务接口 
-- 地形 影像 瓦片 场景四大服务 
-
-**Visualized Analysis**
-
-三维可视
-
-- 支持二次开发，部分免费开源
-- 多种漫游交互方式
-- 多种常用地图UI控件
-- 30多种在线影像数据源
-- 实时调整瓦片位置、显示精度、光影效果
-- 多种地形数据源，一键开启地形着色
-- 测量 & 分析
-- 天气、光影、后期效果
-- 10余种标注、模型、动效自由标绘
-
-
+Cesium平台提供开源和商用软件的组合，是一套完整的工具，用于构建任何类型的3D地理空间应用程序。
